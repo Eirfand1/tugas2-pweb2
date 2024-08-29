@@ -59,7 +59,7 @@
     }
 
     class Kelas101 extends Student{
-        public function tampil_data(){
+        public function showData(){
           // code ..
         }
     }
