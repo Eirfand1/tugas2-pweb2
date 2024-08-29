@@ -1,6 +1,7 @@
 # Tugas 2 Praktikum Pemrograman Web
 ## Penjelasan
-**Tugas ini guna untuk memenuhi tugas 2 pemrograman web 2**
+**Tugas ini guna untuk memenuhi tugas 2 pemrograman web 2.**
+<br>
 **Sistem Informasi Bimbingan Akademik JKB (SIWALI JKB) bersifat komprehensif
 sistem manajemen penasihat akademik yang dirancang untuk menyederhanakan proses
 mengelola kinerja siswa, konseling, dan data akademik lainnya agar lebih tinggi
