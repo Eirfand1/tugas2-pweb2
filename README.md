@@ -1,6 +1,12 @@
 # Tugas 2 Praktikum Pemrograman Web
 ## Penjelasan
 **Tugas ini guna untuk memenuhi tugas 2 pemrograman web 2**
+**Sistem Informasi Bimbingan Akademik JKB (SIWALI JKB) bersifat komprehensif
+sistem manajemen penasihat akademik yang dirancang untuk menyederhanakan proses
+mengelola kinerja siswa, konseling, dan data akademik lainnya agar lebih tinggi
+institusi pendidikan.**
+## ERD (Entity Relationship Diagram)
+![alt text](asset/erd.jpg)
 
 ## Task
 1. **membuat view berbasis OOP PHP dengan menerima data dari mySQL database (tabel reports, gpas dan gpa_details)**
@@ -64,8 +70,7 @@
         }
     }
     ```
-## ERD (Entity Relationship Diagram)
-![alt text](asset/erd.jpg)
+
 ## Tampilan Program
 + menampilkan seluruh isi tabel student 
 ![alt text](asset/student.png)
