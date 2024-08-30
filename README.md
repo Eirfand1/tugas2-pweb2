@@ -10,7 +10,7 @@ institusi pendidikan.**
 ![alt text](asset/erd.jpg)
 
 ## Task
-1. **membuat view berbasis OOP PHP dengan menerima data dari mySQL database (tabel reports, gpas dan gpa_details)**
+1. **membuat view berbasis OOP PHP dengan menerima data dari mySQL database (tabel student, table guidance)**
 2. **menggunakan __construct sebagai link untuk menghubungan ke database**
     ```php
       <?php
